@@ -36,18 +36,18 @@ section {
   display: flex;
   justify-content: space-around;
 }
-.rock {
+.img__rock {
   background-image: url(../image/rock.jpg);
 }
-.paper {
+.img__paper {
   background-image: url(../image/paper.jpg);
 }
-.scissors {
+.img__scissors {
   background-image: url(../image/scissors.jpg);
 }
-.rock,
-.paper,
-.scissors {
+.img__rock,
+.img__paper,
+.img__scissors {
   width: 250px;
   height: 250px;
   background-position: center;
