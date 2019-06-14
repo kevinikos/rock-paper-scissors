@@ -1,2 +1,2 @@
 # rock-paper-scissors
-Simple rock, paper, scissors game: https://priceless-lovelace-c0654e.netlify.com
+Simple rock, paper, scissors game: https://gracious-colden-9687da.netlify.com
